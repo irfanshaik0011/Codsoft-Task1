@@ -1,4 +1,4 @@
-# Codsoft-Task3
+# Codsoft-Task1
 # NUMBER GUESSING GAME
 
 ********Overview of the project*******
