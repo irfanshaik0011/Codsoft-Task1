@@ -1,7 +1,7 @@
 # Codsoft-Task3
 # NUMBER GUESSING GAME
 
-*******Overview of the project******
+********Overview of the project*******
 
 1. *Introduction*: The game starts with a welcoming message "Welcome to the Guessing Game!"
 
